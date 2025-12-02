@@ -1,2 +1,7 @@
-# Banking_project_SQL-Python...
+# Banking_project_SQL+Python...
 The Banking Management System is a software application developed using Python as the programming language and SQL as the backend database. The project aims to simulate basic banking operations in a secure, efficient, and user-friendly manner.
+1. Programming Languages Used
+
+Backend logic developed using Python
+
+Database implemented using SQL Server.
